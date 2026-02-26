@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StockTrendFusion/static/css/main.eed34d81.css",
+    "main.js": "/StockTrendFusion/static/js/main.33fdd4cf.js",
+    "index.html": "/StockTrendFusion/index.html",
+    "main.eed34d81.css.map": "/StockTrendFusion/static/css/main.eed34d81.css.map",
+    "main.33fdd4cf.js.map": "/StockTrendFusion/static/js/main.33fdd4cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eed34d81.css",
+    "static/js/main.33fdd4cf.js"
+  ]
+}
